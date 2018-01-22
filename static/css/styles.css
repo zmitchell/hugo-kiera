@@ -263,7 +263,7 @@ a {
 .float-image, figure.float img, img[src*="float"] {
   width: 300px;
   float: left;
-  margin: 0 1em 1em -3em;
+  margin: 0 2em 2em 0em;
   box-shadow: 0 3px 3px #bbbbbb;
 }
 
@@ -278,7 +278,7 @@ a {
 .float-image-right, figure.float-right img, img[src*="float-right"] {
   width: 300px;
   float: right;
-  margin: 0 -3em 1em 1em;
+  margin: 0 0em 2em 2em;
   box-shadow: 0 3px 3px #bbbbbb;
 }
 
