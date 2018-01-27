@@ -104,6 +104,10 @@ time {
   list-style: none;
 }
 
+#container main section#home ul h1 a {
+  color: #333333;
+}
+
 #container main section#home ul li {
   margin: 0.5em 0;
   padding-bottom: 0.5em;
